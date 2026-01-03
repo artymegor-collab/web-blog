@@ -1,0 +1,82 @@
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #B0E0E6;
+    color: #333;
+    text-align: center;
+    }
+
+.blog {
+       margin: auto;
+       max-width: 800px;
+       }
+
+.author{
+color: gray;
+text-align: right;
+}
+
+.card {
+       padding: 20px;
+       margin-bottom: 30px;
+       background-color: #fff;
+       box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+       border: none;
+       border-radius: 10px;
+       }
+
+form {
+margin: auto;
+background-color: #fff;
+padding: 10px;
+border-radius: 10px;
+box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+max-width: 500px;
+}
+
+input, textarea{
+width: 100%;
+padding: 10px;
+border: 1px solid #ddd
+border-radius: 5px;
+margin-bottom: 10px;
+box-sizing: border-box;
+}
+
+.post{
+max-width: 800px;
+margin: auto;
+}
+
+.btn{
+background-color: #2196F3;
+color: white;
+padding: 5px 5px;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+}
+
+.buttons{
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+button{
+background-color: #2196F3;
+color: white;
+padding: 10px 20px;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+}
+
+
+h1 {
+    font-size: 50px;
+    color: #2196F3;
+    }
+
+a{
+    text-decoraion: none;
+    color:  #2196F3;
+    }
